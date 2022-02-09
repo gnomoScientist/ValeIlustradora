@@ -7,6 +7,7 @@
 #    http://shiny.rstudio.com/
 #
 
+library(DT)
 library(shiny)
 source('carga_stock.R')
 
